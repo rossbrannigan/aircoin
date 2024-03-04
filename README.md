@@ -6,7 +6,8 @@ Abstract
 The AirCoin project aims to revolutionize the airline industry by introducing a blockchain-based platform that enables the seamless sale and purchase of airline ancillary products. Leveraging the transparency, security, and efficiency of blockchain technology, AirCoin will provide a decentralized marketplace for airlines and passengers to engage in transactions related to ancillary services.
 
 1. Introduction
-  1.1 Problem Statement
+
+   1.1 Problem Statement
   Traditional airline ancillary product transactions often involve intermediaries, leading to inefficiencies, increased costs, and reduced transparency. AirCoin   addresses these challenges by offering a decentralized solution that streamlines the process.
 
   1.2 Solution Overview
